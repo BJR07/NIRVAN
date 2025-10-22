@@ -24,7 +24,8 @@
 /* Page */
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(145deg, #050a30 0%, #1a1a40 40%, #222260 75%, #00bfff 100%);
+
     min-height: 100vh;
     line-height: 1.6;
     color: var(--dark);
@@ -926,4 +927,5 @@ audio {
     .events-grid {
         grid-template-columns: repeat(2, 1fr);
     }
+
 }

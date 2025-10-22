@@ -1,0 +1,9 @@
+fastapi==0.95.2
+uvicorn[standard]==0.22.0
+whisper==20230902
+torch>=1.13.0
+numpy
+scipy
+panns_inference==0.3.0
+scikit-learn
+soundfile
